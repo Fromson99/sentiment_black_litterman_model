@@ -1,0 +1,1 @@
+# 문장단위로 sentiment 값을 구해 문서의 sentiment score를 구할 수 있다는게 핵심이다. 
