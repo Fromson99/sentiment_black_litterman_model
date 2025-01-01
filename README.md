@@ -56,7 +56,7 @@
 
 6. **모델 성과 확인**  
    - Backtest, 성과지표(Sharpe, MDD 등)로 결과 평가
-   ![최종 성능](./images/이미지파일명.png)
+   ![최종 성능](./images/performance.png)
 
 
 ---
