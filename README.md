@@ -4,7 +4,7 @@
 ## 목차 (Table of Contents)
 
 1. [프로젝트 소개 (Introduction)](#프로젝트-소개-introduction)  
-2. [프로젝트 핵심 (Point)](#분석-개요-overview)  
+2. [프로젝트 핵심 (Point)](#프로젝트-핵심-Point)  
 3. [프로젝트 구조 (Project-Structure)](#프로젝트-구조-project-structure)  
 
 
