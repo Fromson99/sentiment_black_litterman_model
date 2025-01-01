@@ -1,4 +1,4 @@
-# GNN(Masked Language Model)을 활용한 테마 분산투자 (Done)
+# 감성분석과 Black litterman모델을 활용한 모델 만들기 (Done)
 ---
 
 ## 목차 (Table of Contents)
